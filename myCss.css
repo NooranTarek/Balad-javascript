@@ -1,0 +1,9 @@
+
+  
+  .news-box {
+    width: 100%; /* Each box takes up 100% of the available width */
+    box-sizing: border-box;
+    padding: 7px; /* Adjust padding as needed */
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
